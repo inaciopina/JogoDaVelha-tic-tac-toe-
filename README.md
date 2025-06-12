@@ -19,15 +19,8 @@ Java Swing (GUI)
 
 🎮 Como rodar
 Clone o repositório:
-
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/jogo-da-velha-java.git
-Compile e execute:
 
-bash
-Copiar
-Editar
+Compile e execute:
 javac Main.java
 java Main
